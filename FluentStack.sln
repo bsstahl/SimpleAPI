@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bss.FluentStack.Data.Odata", "Bss.FluentStack.Data.Odata\Bss.FluentStack.Data.Odata.csproj", "{33FC0217-B740-4116-B126-E8806C3741AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bss.FluentStack.Data.Odata.Test", "Bss.FluentStack.Data.Odata.Test\Bss.FluentStack.Data.Odata.Test.csproj", "{DCBD68D4-8A49-453F-9191-57359EB83510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflow", "StackOverflow\StackOverflow.csproj", "{2A01EA42-9285-43F2-A08B-60EC907830A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflow.Model", "StackOverflow.Model\StackOverflow.Model.csproj", "{8A43B23F-03E8-4E2D-B71B-75D72436E95A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bsstahl.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Bss.FluentStack.Data.Odata\\Bss.FluentStack.Data.Odata.csproj
+		SccProjectName1 = Bss.FluentStack.Data.Odata
+		SccLocalPath1 = Bss.FluentStack.Data.Odata
+		SccProjectUniqueName2 = Bss.FluentStack.Data.Odata.Test\\Bss.FluentStack.Data.Odata.Test.csproj
+		SccProjectName2 = Bss.FluentStack.Data.Odata.Test
+		SccLocalPath2 = Bss.FluentStack.Data.Odata.Test
+		SccProjectUniqueName3 = StackOverflow\\StackOverflow.csproj
+		SccProjectName3 = StackOverflow
+		SccLocalPath3 = StackOverflow
+		SccProjectUniqueName4 = StackOverflow.Model\\StackOverflow.Model.csproj
+		SccProjectName4 = StackOverflow.Model
+		SccLocalPath4 = StackOverflow.Model
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FC0217-B740-4116-B126-E8806C3741AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FC0217-B740-4116-B126-E8806C3741AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FC0217-B740-4116-B126-E8806C3741AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FC0217-B740-4116-B126-E8806C3741AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBD68D4-8A49-453F-9191-57359EB83510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBD68D4-8A49-453F-9191-57359EB83510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBD68D4-8A49-453F-9191-57359EB83510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBD68D4-8A49-453F-9191-57359EB83510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A01EA42-9285-43F2-A08B-60EC907830A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A01EA42-9285-43F2-A08B-60EC907830A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A01EA42-9285-43F2-A08B-60EC907830A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A01EA42-9285-43F2-A08B-60EC907830A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A43B23F-03E8-4E2D-B71B-75D72436E95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A43B23F-03E8-4E2D-B71B-75D72436E95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A43B23F-03E8-4E2D-B71B-75D72436E95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A43B23F-03E8-4E2D-B71B-75D72436E95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
